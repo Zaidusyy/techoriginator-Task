@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520713822132",
+    "project_id": "techoriginator-12ec5",
+    "storage_bucket": "techoriginator-12ec5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520713822132:android:961a7103fd52802a3ddce1",
+        "android_client_info": {
+          "package_name": "com.example.techoriginator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv4h893vKzSixWWQ6c8FkAzUT6WTo8xsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
